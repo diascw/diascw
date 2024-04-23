@@ -7,7 +7,7 @@
 
 - 👩🏽‍💻 Domínio em **React, JavaScript, HTML, CSS e C**
 
-- 🤔 **fact about me:** Sou apaixonada por música, cachorros, viagens e tecnologia. Além disso, amo estar acompanhada de pessoas especiais, então, nunca perco a chance de fazer novas amizades pra dividir minhas paixões e aprender coisas novas.
+- 🤔 **Fact about me:** Sou apaixonada por música, cachorros, viagens e tecnologia. Além disso, amo estar acompanhada de pessoas especiais, então, nunca perco a chance de fazer novas amizades pra dividir minhas paixões e aprender coisas novas.
 
 - 🔍 **Saiba mais** sobre minha jornada no [LinkedIn](https://www.linkedin.com/in/wanessadiascw/)
 
