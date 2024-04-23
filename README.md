@@ -26,14 +26,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 <br>
 
-## Fala Comigo!
-
-<p align="left" style="background:yellow">
-<a href="https://www.linkedin.com/in/wanessadiascw/" target="_blank">
-</a>
-<a href="https://www.instagram.com/diascw/" target="_blank">
-</a>
-</p>
 
 
 <!---
