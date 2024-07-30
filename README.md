@@ -1,11 +1,11 @@
 <h1 align="left">Hi, I'm Wanessa Dias 😊</h1>
 
-- 🤓 Estudante de **Engenharia de Software** na PUC Minas | 3º Período
+- 🤓 Estudante de **Engenharia de Software** na PUC Minas | 4º Período
 
 
-- 📚 Atualmente, aprofundando meu conhecimento em **Java**
+- 📚 Atualmente, aprofundando meu conhecimento em **React** e **Next.js**
 
-- 👩🏽‍💻 Domínio em **React, JavaScript, HTML, CSS e C**
+- 👩🏽‍💻 Domínio em **TypeScript, JavaScript, HTML, CSS e C**
 
 - 🤔 **Fact about me:** Sou apaixonada por música, cachorros, viagens e tecnologia. Além disso, amo estar acompanhada de pessoas especiais, então, nunca perco a chance de fazer novas amizades pra dividir minhas paixões e aprender coisas novas.
 
