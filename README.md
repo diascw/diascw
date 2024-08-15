@@ -3,7 +3,7 @@
 - 🤓 Estudante de **Engenharia de Software** na PUC Minas | 4º Período
 
 
-- 📚 Atualmente, aprofundando meu conhecimento em **React** e **Next.js**
+- 📚 Atualmente, estou aprofundando meu conhecimento em **React** e **Next.js**
 
 - 👩🏽‍💻 Domínio em **TypeScript, JavaScript, HTML, CSS e C**
 
