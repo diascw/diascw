@@ -3,9 +3,9 @@
 - 🤓 Estudante de **Engenharia de Software** na PUC Minas | 4º Período
 
 
-- 📚 Atualmente, estou aprofundando meu conhecimento em **React** e **Next.js**
+- 📚 Atualmente, estou aprofundando meu conhecimento em **Next.js**
 
-- 👩🏽‍💻 Domínio em **TypeScript, JavaScript, HTML, CSS e C**
+- 👩🏽‍💻 Domínio em **TypeScript, JavaScript, HTML, CSS, C e React**
 
 - 🤔 **Fact about me:** Sou apaixonada por música, cachorros, viagens e tecnologia. Além disso, amo estar acompanhada de pessoas especiais, então, nunca perco a chance de fazer amizades pra dividir minhas paixões e aprender coisas novas.
 
