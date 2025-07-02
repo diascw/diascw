@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Wanessa Dias 😊</h1>
 
-- 🤓 Estudante de **Engenharia de Software** na PUC Minas | 5º Período
+- 🤓 Estudante de **Engenharia de Software** na PUC Minas | 6º Período
 
 - 👩🏽‍💻 Domínio em **TypeScript, JavaScript, HTML, CSS, C, React e Next.js**
 
