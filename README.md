@@ -8,7 +8,7 @@
 
 ---
 
-## 🛠 &nbsp;Habilidades Técnicas
+##  &nbsp;Habilidades Técnicas
 
 ![HTML](https://img.shields.io/badge/HTML-05122A?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-05122A?style=flat&logo=css3&logoColor=1572B6)
@@ -25,12 +25,12 @@
 
 ---
 
-## 📈 &nbsp;Sobre Mim
+##  &nbsp;Sobre Mim
 Sou uma desenvolvedora em formação, sempre em busca de novos desafios que me permitam crescer técnica e pessoalmente. Gosto de transformar ideias em soluções reais e valorizo ambientes colaborativos onde a troca de conhecimento faz a diferença.
 
 ---
 
-## 🚀 &nbsp;Atualmente
+##  &nbsp;Atualmente
 - Aprimorando minhas habilidades em **desenvolvimento front-end e back-end**  
 - Trabalhando em projetos pessoais, acadêmicos e na empresa LATAN Airlines   
 - Explorando ferramentas modernas e boas práticas de desenvolvimento  
