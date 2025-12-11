@@ -32,7 +32,7 @@ Sou uma desenvolvedora em formação, sempre em busca de novos desafios que me p
 
 ##  &nbsp;Atualmente
 - Aprimorando minhas habilidades em **desenvolvimento front-end e back-end**  
-- Trabalhando em projetos pessoais, acadêmicos e na empresa LATAN Airlines   
+- Trabalhando em projetos pessoais, acadêmicos e na empresa LATAM Airlines   
 - Explorando ferramentas modernas e boas práticas de desenvolvimento  
 
 ---
