@@ -1,6 +1,6 @@
 <h1 align="left">Olá! Eu sou a Wanessa Dias 😊</h1>
 
-🎓 Estudante de **Engenharia de Software** na PUC Minas — 6º período  
+🎓 Estudante de **Engenharia de Software** na PUC Minas — 7º período  
 💻 Experiência com **TypeScript, JavaScript, HTML, CSS, C, Java, React, Next.js e Node.js**  
 🌍 Apaixonada por tecnologia, música, viagens e boas conexões. Acredito no poder da colaboração e estou sempre buscando aprender e evoluir.
 
