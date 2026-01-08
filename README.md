@@ -31,7 +31,7 @@ Sou uma desenvolvedora em formação, sempre em busca de novos desafios que me p
 ---
 
 ##  &nbsp;Atualmente
-- Aprimorando minhas habilidades em **desenvolvimento front-end e back-end**  
+- Aprimorando minhas habilidades em **Spring Boot e Kotlin**  
 - Trabalhando em projetos pessoais, acadêmicos e na empresa LATAM Airlines   
 - Explorando ferramentas modernas e boas práticas de desenvolvimento  
 
