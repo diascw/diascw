@@ -3,7 +3,7 @@
 - 🎓 Software Engineering student at PUC Minas — 7th semester
 - 💻 Experience with TypeScript, JavaScript, HTML, CSS, C, Java, Kotlin, React, Next.js, Node.js, and Spring Boot
 - 🌍 Passionate about technology, music, travel, and meaningful connections. I believe in the power of collaboration and I’m always seeking to learn, grow, and evolve.
-- 
+  
 ---
 
 ![HTML](https://img.shields.io/badge/HTML-05122A?style=flat&logo=html5)
