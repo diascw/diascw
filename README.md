@@ -1,10 +1,10 @@
-<h1 align="left">Olá! Eu sou a Wanessa Dias 😊</h1>
+<h1 align="left">Hi there! I'm Wanessa! 😊</h1>
 
-🎓 Estudante de **Engenharia de Software** na PUC Minas — 7º período  
-💻 Experiência com **TypeScript, JavaScript, HTML, CSS, C, Java, React, Next.js e Node.js**  
-🌍 Apaixonada por tecnologia, música, viagens e boas conexões. Acredito no poder da colaboração e estou sempre buscando aprender e evoluir.
+🎓 Software Engineering student at PUC Minas — 7th semester
+💻 Experience with TypeScript, JavaScript, HTML, CSS, C, Java, Kotlin, React, Next.js, Node.js, and Spring Boot
+🌍 Passionate about technology, music, travel, and meaningful connections. I believe in the power of collaboration and I’m always seeking to learn, grow, and evolve.
 
-🔗 **Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/wanessadiascw/)**
+🔗 ** [LinkedIn](https://www.linkedin.com/in/wanessadiascw/)**
 
 ---
 
@@ -24,16 +24,3 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-05122A?style=flat&logo=visual-studio-code)
 
 ---
-
-##  &nbsp;Sobre Mim
-Sou uma desenvolvedora em formação, sempre em busca de novos desafios que me permitam crescer técnica e pessoalmente. Gosto de transformar ideias em soluções reais e valorizo ambientes colaborativos onde a troca de conhecimento faz a diferença.
-
----
-
-##  &nbsp;Atualmente
-- Aprimorando minhas habilidades em **Spring Boot e Kotlin**  
-- Trabalhando em projetos pessoais, acadêmicos e na empresa LATAM Airlines   
-- Explorando ferramentas modernas e boas práticas de desenvolvimento  
-
----
-
