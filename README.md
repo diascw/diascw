@@ -1,7 +1,7 @@
 <h1 align="left">Hi there! I'm Wanessa :) </h1>
 
 - 🎓 Software Engineer
-- 💻 Experience with TypeScript, JavaScript, React, Next.js, Node.js, C, Java, Kotlin, and Spring Boot
+- 💻 Experience with TypeScript, JavaScript, React, Next.js, Node.js, C, Java, Kotlin, and Spring Boot.
 - 🌍 Passionate about technology, music, travel, and meaningful connections. I believe in the power of collaboration and I’m always seeking to learn, grow, and evolve.
   
 ---
