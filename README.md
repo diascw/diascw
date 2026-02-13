@@ -12,7 +12,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/React-05122A?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-05122A?style=flat&logo=next.js)
-![Node.js](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=node.js)
 ![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=openjdk)
 ![C](https://img.shields.io/badge/C-05122A?style=flat&logo=c)
 ![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)
